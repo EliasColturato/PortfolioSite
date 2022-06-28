@@ -20,7 +20,7 @@ export default function ImageElias() {
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore.
             </p>
-            <img src="./img/image-elias.png" alt="" style={{ width: '50%' }} />
+            <img src="./img/image-elias.png" alt="" style={{ max-width: '50%', min-widht: '30%' }} />
           </BoxImage>
           <ServicesElias>
             <Marketing>
